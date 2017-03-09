@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int
+//Это учебная программа, а не лунная поляна
 main() {
     int a, b;
     cout <<"Enter A and B ";
